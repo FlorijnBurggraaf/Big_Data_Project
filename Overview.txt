@@ -1,0 +1,7 @@
+Needed files:
+-TweetCollection
+-StockpriceCollection
+-Tweet processing: Predict Sentiment using (what was it called, Ruben?)
+-Tweet processing: Predict Sentiment by manual labelling, converting to word2vec, predicting sentiment using RandomForest
+-Predict stock price (LibSVM, optimize hyperparameters by e.g. grid search)
+-Predict stock price (logistic regression, optional)
